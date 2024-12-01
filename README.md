@@ -2,7 +2,7 @@
 
 ## Covered topics:
 - [Intro](https://github.com/maciejmakowski2003/Digital-Image-Processing/tree/main/intro)
-- [Points operations](https://github.com/maciejmakowski2003/Digital-Image-Processing/tree/main/points-operations)
+- [Point operations](https://github.com/maciejmakowski2003/Digital-Image-Processing/tree/main/point-operations)
 - [Histogram](https://github.com/maciejmakowski2003/Digital-Image-Processing/tree/main/histogram)
 - [Binarization](https://github.com/maciejmakowski2003/Digital-Image-Processing/tree/main/binzarization)
 - [Resolution](https://github.com/maciejmakowski2003/Digital-Image-Processing/tree/main/resolution)
